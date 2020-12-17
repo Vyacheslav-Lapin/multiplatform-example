@@ -1,0 +1,8 @@
+# Project exclude paths
+/.gradle/
+/build/
+/build/js/packages/multiplatform-example-kmp-common/kotlin/
+/build/js/packages/multiplatform-example-kmp-common-test/kotlin/
+/kmp-common/build/
+/kmp-common/build/classes/kotlin/jvm/main/
+/kmp-common/build/classes/kotlin/jvm/test/
